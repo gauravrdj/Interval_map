@@ -1,0 +1,1 @@
+{"name":"Local: new_Sol","url":"c:\\Users\\Gaurav Sharma\\Desktop\\ThinkCell\\new_Sol.cpp","tests":[{"id":1729767554816,"input":"5\n5 6 B\n6 8 D\n9 15 A\n1 3 F\n7 8 A","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Gaurav Sharma\\Desktop\\ThinkCell\\new_Sol.cpp","group":"local","local":true}
