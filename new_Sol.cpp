@@ -107,6 +107,8 @@ for(int i=1;i<=t;i++){
         }
     }
 
+    std::cout<<"Test Case "<<i<<" Passed"<<endl;
+
 }
 std::cout << "Randomized test completed." << std::endl;
 
